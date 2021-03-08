@@ -1,6 +1,6 @@
 # multicycle_datapath_for_risc_v_processor
 
-This is datapath for risv_V_processort in which each instruciton takes five cycle for completion.
+This is datapath for risv_V_processor in which each instruction takes five cycle for completion.
 
 Instructions which can be given are
 
